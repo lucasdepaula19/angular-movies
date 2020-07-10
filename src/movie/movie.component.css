@@ -1,0 +1,14 @@
+div {
+  text-align: center;
+}
+
+h1 {
+  color:gray;
+}
+
+.movie {
+  border: 1px solid #000;
+  width: 187px;
+  height: 164px;
+  margin: 2em;
+}
